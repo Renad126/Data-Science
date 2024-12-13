@@ -26,7 +26,7 @@ Using Mall-Customer-Segmentation data I have tried to answer the following quest
 
 ## File Descriptions
 
-There is one Jupyter Notebook file that contains all the analytics, codes Markdown cells and comments.
+There is one Jupyter Notebook file that contains all the analytics, codes, Markdown cells and comments.
 
 ## Results
 
@@ -40,7 +40,7 @@ The data can be roughly categorized into five clusters:
 
 -  low income, low spending score
 -  low income, high spending score
--  oderate income, moderate spending score
+-  Moderate income, moderate spending score
 -  high income, low spending score
 -  high income, high spending score
   
@@ -48,7 +48,7 @@ The data can be roughly categorized into five clusters:
 - Cluster 3 is the biggest one with 32.5%
 
 3. How is gender distributed across each cluster?
-- Distribution of gender to recognize different distributions
+- Analyzing the distribution of genders within each cluster helps in understanding demographic variations and behavioral trends among different customer segments.
 
 ## Licensing, Authors, and Acknowledgements
 
