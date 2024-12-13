@@ -52,6 +52,4 @@ The data can be roughly categorized into five clusters:
 
 ## Licensing, Authors, and Acknowledgements
 
-Licensing for the data and other descriptive information at the [Kaggle link available here].
-
-[Kaggle link available here]: [https://www.kaggle.com/airbnb/boston](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)]
+Licensing for the data and other descriptive information can be found at the [Kaggle link available here](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
