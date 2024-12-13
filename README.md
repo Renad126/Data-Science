@@ -11,8 +11,8 @@
 
 ## Installation 
 
-1- Python 3
-2- Libraries: numpy, pandas, seaborn, sklearn and matplotlib.
+1. Python 3
+2. Libraries: numpy, pandas, seaborn, sklearn and matplotlib.
 
 ## Project Motivation 
 
