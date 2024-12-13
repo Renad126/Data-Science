@@ -38,11 +38,11 @@ You can find brief results below, for more detailed answers please refer to my [
 There are five customer segments based on their annual income and spending score.
 The data can be roughly categorized into five clusters:
 
-1. Low income, low spending score
-2. Low income, high spending score
-3. Moderate income, moderate spending score
-4. High income, low spending score
-5. High income, high spending score
+-  low income, low spending score
+-  low income, high spending score
+-  oderate income, moderate spending score
+-  high income, low spending score
+-  high income, high spending score
   
 2. Which cluster is the largest in the dataset?
 Cluster 3 is the biggest one with 32.5%
