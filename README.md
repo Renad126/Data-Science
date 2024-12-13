@@ -17,7 +17,7 @@
 ## Project Motivation 
 
 This entire project is part of a Data Scientist Nanodegree Program by Udacity.
-Using Mall-Customer-Segmentation data I have tried to answer the following questions:
+Using Mall-Customer-Segmentation data I have tried to answer the following questions to provide a comprehensive understanding of customer segmentation based on annual income, spending score, and gender.
 
 1. What is the relationship between Annual Income and Spending Score?
 2. Which cluster is the largest in the dataset?
@@ -34,8 +34,6 @@ You can find brief results below, for more detailed answers please refer to my [
 
 [blog post]: 
 
-these questions to provide a comprehensive understanding of customer segmentation based on annual income, spending score, and gender.
-
 1. What is the relationship between Annual Income and Spending Score?
 There are five customer segments based on their annual income and spending score.
 The data can be roughly categorized into five clusters:
@@ -45,9 +43,9 @@ The data can be roughly categorized into five clusters:
 3. Moderate income, moderate spending score
 4. High income, low spending score
 5. High income, high spending score
-
+  
 2. Which cluster is the largest in the dataset?
-cluster 3 is the biggest one with 32.5%
+Cluster 3 is the biggest one with 32.5%
 
 3. How is gender distributed across each cluster?
 Distribution of gender to recognize different distributions
@@ -56,4 +54,4 @@ Distribution of gender to recognize different distributions
 
 Licensing for the data and other descriptive information at the [Kaggle link available here].
 
-[Kaggle link available here]: [https://www.kaggle.com/airbnb/boston](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+[Kaggle link available here]: [https://www.kaggle.com/airbnb/boston](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)]
