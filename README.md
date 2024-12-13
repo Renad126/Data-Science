@@ -45,10 +45,10 @@ The data can be roughly categorized into five clusters:
 -  high income, high spending score
   
 2. Which cluster is the largest in the dataset?
-Cluster 3 is the biggest one with 32.5%
+- Cluster 3 is the biggest one with 32.5%
 
 3. How is gender distributed across each cluster?
-Distribution of gender to recognize different distributions
+- Distribution of gender to recognize different distributions
 
 ## Licensing, Authors, and Acknowledgements
 
