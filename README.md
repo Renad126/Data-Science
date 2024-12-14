@@ -45,7 +45,7 @@ The data can be roughly categorized into five clusters:
 -  high income, high spending score
   
 2. Which cluster is the largest in the dataset?
-- Cluster 3 is the biggest one with 32.5%
+- Cluster 4 is the biggest one with 32.5%
 
 3. How is gender distributed across each cluster?
 - Analyzing the distribution of genders within each cluster helps in understanding demographic variations and behavioral trends among different customer segments.
