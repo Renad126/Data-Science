@@ -30,9 +30,7 @@ There is one Jupyter Notebook file that contains all the analytics, codes, Markd
 
 ## Results
 
-You can find brief results below, for more detailed answers please refer to my [blog post]: 
-
-[blog post]: (https://medium.com/@renadmhmdm/mall-customer-segmentation-analysis-be2a2987c8d5)
+You can find brief results below, for more detailed answers please refer to my [blog post](https://medium.com/@renadmhmdm/mall-customer-segmentation-analysis-be2a2987c8d5).
 
 1. What is the relationship between Annual Income and Spending Score?
 There are five customer segments based on their annual income and spending score.
